@@ -8,11 +8,12 @@ html {
     padding: 0;
 }
 .container {
+    display: flex;
     margin: 2rem auto;
     border: 1px solid black;
     border-radius: 1rem;
-    width: 70rem;
-    height: 40rem;
-    background-size: contain;
+    width: 85rem;
+    height: 55rem;
+    background-size: cover;
     background-repeat: no-repeat;
 }
